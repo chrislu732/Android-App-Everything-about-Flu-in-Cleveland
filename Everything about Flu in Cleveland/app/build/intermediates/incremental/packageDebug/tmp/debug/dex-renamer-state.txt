@@ -1,0 +1,7 @@
+#Sun Aug 23 16:26:51 EDT 2020
+base.0=/Users/blue/Documents/CWRU/EECS410/eecs410 final/final/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/blue/Documents/CWRU/EECS410/eecs410 final/final/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

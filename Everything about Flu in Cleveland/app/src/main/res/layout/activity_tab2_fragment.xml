@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/bt1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="running?"
+        android:background="@color/cardview_light_background">
+    </Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id = "@+id/btn_show"
+        android:text="show"></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id = "@+id/btn_stop"
+        android:text="delete sqlite"></Button>
+    <com.jjoe64.graphview.GraphView
+        android:layout_width="match_parent"
+        android:layout_height="166dp"
+        android:id = "@+id/graph1">
+    </com.jjoe64.graphview.GraphView>
+
+
+</LinearLayout>
