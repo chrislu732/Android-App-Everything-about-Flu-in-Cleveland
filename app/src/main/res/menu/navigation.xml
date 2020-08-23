@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_tab1"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Practice" />
+    <item
+        android:id="@+id/item_tab2"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Pedometer" />
+    <item
+        android:id="@+id/item_tab3"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Tips" />
+    <item
+        android:id="@+id/item_tab4"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Flu Shot" />
+</menu>
